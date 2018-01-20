@@ -1,10 +1,8 @@
-# Altcoin Charter
-
-> See the histories of cryptocurrencies you saved
+# MERN app boilerplate with user authentication
 
 > Built with React + Redux front end and Nodejs, express, mongodb backend
 
-> Still in production
+> Still needs to be improved
 
 ## Quick Start
 
